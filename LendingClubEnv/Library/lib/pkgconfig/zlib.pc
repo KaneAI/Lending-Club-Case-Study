@@ -1,0 +1,13 @@
+prefix=D:/Repos/Lending-Club-Case-Study/LendingClubEnv/Library
+exec_prefix=D:/Repos/Lending-Club-Case-Study/LendingClubEnv/Library
+libdir=D:/Repos/Lending-Club-Case-Study/LendingClubEnv/Library/lib
+sharedlibdir=D:/Repos/Lending-Club-Case-Study/LendingClubEnv/Library/lib
+includedir=D:/Repos/Lending-Club-Case-Study/LendingClubEnv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
