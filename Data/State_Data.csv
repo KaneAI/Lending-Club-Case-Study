@@ -1,0 +1,52 @@
+﻿State,Abbr.,Zip Code,Region,Division
+Alabama,AL,"350nn-352nn, 354nn-369nn",South,East South Central
+Alaska,AK,995nn-999nn,West,Pacific
+Arizona,AZ,"850nn-853nn, 855nn-857nn, 859nn-860nn, 863nn-865nn",West,Mountain
+Arkansas,AR,716nn-729nn,South,West South Central
+California,CA,"900nn-908nn, 910nn-928nn, 930nn-961nn",West,Pacific
+Colorado,CO,800nn-816nn,West,Mountain
+Connecticut,CT,"060nn-06389, 06391-069nn",Northeast,New England
+Delaware,DE,197nn-199nn,South,South Atlantic
+District of Columbia,DC,"200nn, 202nn-20587, 569nn 20589-20597, 20599",South,South Atlantic
+Florida,FL,"320nn-339nn, 341nn, 342nn, 344nn, 346nn, 347nn, 349nn",South,South Atlantic
+Georgia,GA,"300nn-319nn, 398nn-399nn",South,South Atlantic
+Hawaii,HI,"96701-96798, 968nn",West,Pacific
+Idaho,ID,"832nn-83413, 83415-838nn",West,Mountain
+Illinois,IL,"600nn-620nn, 622nn-629nn",Midwest,East North Central
+Indiana,IN,460nn-479nn,Midwest,East North Central
+Iowa,IA,"500nn-516nn, 520nn-528nn",Midwest,West North Central
+Kansas,KS,"660nn-662nn, 664nn-679nn",Midwest,West North Central
+Kentucky,KY,"400nn-418nn, 420nn-427nn",South,East South Central
+Louisiana,LA,"700nn-701nn, 703nn-708nn, 710nn-714nn",South,West South Central
+Maine,ME,039nn-049nn,Northeast,New England
+Maryland,MD,"20588, 206nn-212nn, 214nn-219nn",South,South Atlantic
+Massachusetts,MA,"010nn-027nn, 055nn",Northeast,New England
+Michigan,MI,480nn-499nn,Midwest,East North Central
+Minnesota,MN,"550nn-551nn, 553nn-567nn",Midwest,West North Central
+Mississippi,MS,386nn-397nn,South,East South Central
+Missouri,MO,"630nn-631nn, 633nn-641nn, 644nn-658nn",Midwest,West North Central
+Montana,MT,590nn-599nn,West,Mountain
+Nebraska,NE,"680nn-681nn, 683nn-693nn",Midwest,West North Central
+Nevada,NV,"889nn-891nn, 893nn-895nn, 897nn-898nn",West,Mountain
+New Hampshire,NH,030nn-038nn,Northeast,New England
+New Jersey,NJ,070nn-089nn,Northeast,Middle Atlantic
+New Mexico,NM,"870nn-871nn, 873nn-884nn",West,Mountain
+New York,NY,"005nn, 06390, 100nn-149nn",Northeast,Middle Atlantic
+North Carolina,NC,270nn-289nn,South,South Atlantic
+North Dakota,ND,580nn-588nn,Midwest,West North Central
+Ohio,OH,430nn-459nn,Midwest,East North Central
+Oklahoma,OK,"730nn-731nn, 734nn-73959, 73961-741nn, 743nn-749nn",South,West South Central
+Oregon,OR,970nn-979nn,West,Pacific
+Pennsylvania,PA,150nn-196nn,Northeast,Middle Atlantic
+Rhode Island,RI,"028nn, 029nn",Northeast,New England
+South Carolina,SC,290nn-299nn,South,South Atlantic
+South Dakota,SD,570nn-577nn,Midwest,West North Central
+Tennessee,TN,370nn-385nn,South,East South Central
+Texas,TX,"733nn, 73960, 750nn-770nn, 772nn-799nn, 885nn",South,West South Central
+Utah,UT,840nn-847nn,West,Mountain
+Vermont,VT,"050nn-054nn, 056nn-059nn",Northeast,New England
+Virginia,VA,"201nn, 20598, 220nn-246nn",South,South Atlantic
+Washington,WA,"980nn-986nn, 988nn-994nn",West,Pacific
+West Virginia,WV,247nn-268nn,South,South Atlantic
+Wisconsin,WI,"530nn-532nn, 534nn-535nn, 537nn-549nn",Midwest,East North Central
+Wyoming,WY,"820nn-831nn, 83414",West,Mountain
